@@ -20,13 +20,13 @@
 
 Создание аккаунта происходит на странице [https://wallet.xx.network/#/accounts/generate](https://wallet.xx.network/#/accounts/generate).
 
-Переходим по адресу, отмечаем две галочки, подтверждая что мы отлючили интернет-соединение, либо принимаем риски оставшись онлайн и тот факт что наш браузер не скомпроментирован. После чего начинаем процесс регистрации нажатием кнопки **'Generate New Wallet'**.
+Переходим по адресу, отмечаем две галочки, подтверждая что наш браузер не скомпрометирован и мы отключили интернет-соединение, либо принимаем риски оставшись онлайн. После чего начинаем процесс регистрации нажатием кнопки **'Generate New Wallet'**.
 
 <figure><img src=".gitbook/assets/Screenshot 2022-08-28 215642.png" alt=""><figcaption></figcaption></figure>
 
 Генерируются две сид фразы. Первая так называемая квантовая мнемоника, эта сид фраза будет использоваться тогда, когда консенсус сети **xx** перейдет на квантово-безопасные сигнатуры. Стандартная сид фраза генерируется на базе этой мнемоники. Вторая сид фраза это стандартная мнемоника и используется для восстановления доступа к кошельку или для установки аппаратного кошелька.&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2022-08-28 221508.png" alt=""><figcaption><p>Записываем сид фразы вместе с нумерацией.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2022-08-28 221508.png" alt=""><figcaption></figcaption></figure>
 
 Записываем обе фразы (обращаем внимание на рекомендации выше), отмечаем галочкой что мы сохранили обе фразы и идем дальше
 
@@ -36,7 +36,7 @@
 
 <figure><img src=".gitbook/assets/Screenshot 2022-08-28 224542.png" alt=""><figcaption></figcaption></figure>
 
-Принимаем позравления
+Принимаем поздравления
 
 <figure><img src=".gitbook/assets/Screenshot 2022-08-28 224845.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@
 
 После чего проходим три шага добавления аккаунта.&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2022-08-28 230039.png" alt=""><figcaption><p>Подтвердаем что мы сохранили мнемонику.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2022-08-28 230039.png" alt=""><figcaption><p>Подтверждаем что мы сохранили мнемонику.</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2022-08-28 230317.png" alt=""><figcaption><p>Указываем имя аккаунта и пароль</p></figcaption></figure>
 
@@ -54,4 +54,4 @@
 
 <figure><img src=".gitbook/assets/Screenshot 2022-08-28 230532.png" alt=""><figcaption><p>финальная информация</p></figcaption></figure>
 
-На этом содание аккаунта в сети **xx** можно считать завершенным.
+На этом создание аккаунта в сети **xx** можно считать завершенным.
