@@ -2,5 +2,5 @@
 
 * [Интро](README.md)
 * [Создание аккаунта](sozdanie-akkaunta.md)
-* [Делегирование (?)](delegirovanie.md)
-* [xx messenger](xx-messenger.md)
+* [Номинирование](nominirovanie/README.md)
+  * [Обзор шагов по номинированию узлов](nominirovanie/obzor-shagov-po-nominirovaniyu-uzlov.md)
