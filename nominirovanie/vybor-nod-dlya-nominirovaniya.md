@@ -10,7 +10,7 @@
 
 * В меню навигации переходим в _Network_ и в выпадающем меню выбираем _Staking_. либо просто переходим по ссылке [https://wallet.xx.network/#/staking](https://wallet.xx.network/#/staking)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * На странице Staking Overview кликаем вкладку _Targets_
 
@@ -22,7 +22,7 @@
 
 Процент комиссии - это сумма вознаграждений, которую узел берет в качестве компенсации за управление узлом. Остальные награды распределяются между стейкерами узла. Узел со 100% комиссией заберет все награды, не оставив ничего для всех, кто его выдвинул. Аналогичным образом, узел с комиссией 0% не будет получать никакой дополнительной компенсации за управление узлом, а все его доходы будут разделены между его стейкерами.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   #### Количество человек номинировавших узел
 
@@ -32,7 +32,7 @@
 
     Проверьте колонку номинантов и учитывайте это при выборе узлов. Рядом со всеми узлами, у которых более 256 номинантов, появится красный значок с надписью Oversubscribed Explorer
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 *   #### Предыдущая производительность узла
 
@@ -40,8 +40,18 @@
 
     * Нажмите на `cmix id`  узла, чтобы открыть его страницу на дашборде сети xx
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * Посмотрите на графики Uptime и Round Success Rate и убедитесь, что они приемлемы.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>как видно на примере производительность узла оставляет желать лучшего</p></figcaption></figure>
+
+* Возвращаемся на вкладку проводника и нажимаем на значок статистики Explorer рядом с узлом
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* На этой странице вы можете увидеть, насколько стабильным был узел.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+После того как выбрана одна или несколько нод можно переходить непосредственно к номинированию.
