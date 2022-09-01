@@ -10,11 +10,11 @@
 
 * В меню навигации переходим в _Network_ и в выпадающем меню выбираем _Staking_. либо просто переходим по ссылке [https://wallet.xx.network/#/staking](https://wallet.xx.network/#/staking)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * На странице Staking Overview кликаем вкладку _Targets_
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Здесь вы можете увидеть все доступные узлы, которые вы можете номинировать. Подробное описание выбора лучших узлов для номинирования выходит за рамки этого гайда, однако есть некоторые моменты, которые следует учитывать при выборе узлов, которые вы хотите номинировать.
 
@@ -26,7 +26,7 @@
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -38,34 +38,6 @@
 
 Проверьте колонку номинантов и учитывайте это при выборе узлов. Рядом со всеми узлами, у которых более 256 номинантов, появится красный значок с надписью Oversubscribed Explorer
 
-
-
 </details>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-<details>
-
-<summary>Предыдущая производительность узла</summary>
-
-Если узел выпадает в офлайн или работает нестабильно, он (и все, кто стейкает ему) заработает меньше монет, а в редких случаях, может и потерять монеты.&#x20;
-
-</details>
-
-Следующие инструкции, помогут проверить производительность узла.
-
-{% tabs %}
-{% tab title="Комиссия узла" %}
-Процент комиссии - это сумма вознаграждений, которую узел берет в качестве компенсации за управление узлом. Остальные награды распределяются между стейкерами узла. Узел со 100% комиссией заберет все награды, не оставив ничего для всех, кто его выдвинул. Аналогичным образом, узел с комиссией 0% не будет получать никакой дополнительной компенсации за управление узлом, а все его доходы будут разделены между его стейкерами.
-
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Количество номинаторов узла." %}
-
-{% endtab %}
-
-{% tab title="Производительность узла" %}
-
-{% endtab %}
-{% endtabs %}
