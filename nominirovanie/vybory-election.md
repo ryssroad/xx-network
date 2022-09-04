@@ -8,5 +8,5 @@
 
 * Определить оставшееся время ожидания можно на вкладке _`Network - Overview`_
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 

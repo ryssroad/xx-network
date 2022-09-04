@@ -10,7 +10,7 @@
 
 * В меню навигации переходим в _Network_ и в выпадающем меню выбираем _Staking_. либо просто переходим по ссылке [https://wallet.xx.network/#/staking](https://wallet.xx.network/#/staking)
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * На странице Staking Overview кликаем вкладку _Targets_
 
@@ -28,7 +28,7 @@
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>коммиссия узлов</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>коммиссия узлов</p></figcaption></figure>
 
 <details>
 
@@ -64,7 +64,7 @@ _Проверьте колонку номинантов и учитывайте 
 
 * Возвращаемся на вкладку проводника и нажимаем на значок статистики Explorer рядом с узлом
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * На этой странице вы можете увидеть, насколько стабильным был узел.
 
