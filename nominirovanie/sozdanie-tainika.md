@@ -12,7 +12,7 @@
 
 * Откроется страница Staking Overview. Переходим во вкладку Account actions, и нажимаем кнопку Stash (Тайник)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Откроется окно _Bonding Preferences_
 

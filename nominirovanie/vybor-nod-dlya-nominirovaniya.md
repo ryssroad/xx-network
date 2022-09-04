@@ -56,7 +56,7 @@ _Проверьте колонку номинантов и учитывайте 
 
 Нажмите на `cmix id`  узла, чтобы открыть его страницу на дашборде сети xx
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Посмотрите на графики Uptime и Round Success Rate и убедитесь, что они приемлемы.
 

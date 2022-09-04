@@ -2,9 +2,9 @@
 
 * Переходим на вкладку _Targets_ меню _Network_
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* Для выбора нод используем чекбокс справа. Выбираем одну или несколько нод (не более 16). Подтвержаем выбор кнопкой _Nominate Selected_
+* Для выбора узлов используем чек бокс справа. Выбираем один или несколько узлов (не более 16). Подтверждаем выбор кнопкой _Nominate Selected_
 
 <figure><img src="../.gitbook/assets/Screenshot 09-02-2022 02.25.14.png" alt=""><figcaption><p>выбор узла/узлов для номинирования</p></figcaption></figure>
 
