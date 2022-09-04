@@ -56,18 +56,20 @@ _Проверьте колонку номинантов и учитывайте 
 
 Нажмите на `cmix id`  узла, чтобы открыть его страницу на дашборде сети xx
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * Посмотрите на графики Uptime и Round Success Rate и убедитесь, что они приемлемы.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>как видно на примере производительность узла оставляет желать лучшего</p></figcaption></figure>
 
-* Возвращаемся на вкладку проводника и нажимаем на значок статистики Explorer рядом с узлом
+* Возвращаемся на вкладку проводника и нажимаем на значок статистики узла
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * На этой странице вы можете увидеть, насколько стабильным был узел.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-После того как выбрана одна или несколько нод можно переходить непосредственно к номинированию.
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+После того как выбран один или несколько узлов можно переходить непосредственно к номинированию.

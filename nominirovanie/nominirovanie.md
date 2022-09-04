@@ -12,7 +12,7 @@
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>окно #1 - информация о сделке </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>шаг #2 - авторизация </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>шаг #2 - авторизация </p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>ожидаемый результат</p></figcaption></figure>
 
